@@ -1,0 +1,1217 @@
+{
+    "nodes": [
+        {
+            "id": "Weidong Li",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Qun Dai",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Blaire Haslop",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Mitra Homolja",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "David Batchelor",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Bin Li",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Paolo Fiamma",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Rebeka Vital",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Cyrus Qureshi",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Yi He",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Brandon Wang",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Yoann Pencreach",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Xiangyu Wang",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Liam Jordan Sheehan",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Derek Kawiti",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Maria Rogers",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Dongsoo Choi",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Tomohiro Fukuda",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Shuva Chowdhury",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Thomas Kvan",
+            "betweenness_centrality": 0.0012099213551119178
+        },
+        {
+            "id": "Yoshihiro Kobayashi",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Hannah Rushton",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Kostas ?Terzidis",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Irene Rui Chen",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Marc Aurel Schnabel",
+            "betweenness_centrality": 0.8488606573906032
+        },
+        {
+            "id": "Yingyi Zhang",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Andre Brown",
+            "betweenness_centrality": 0.0028231498285944748
+        },
+        {
+            "id": "Weihong Guo",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Taro Narahara",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Matthew Swarts",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Sayyed Amir Hossain Maghool",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "James Holth",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Ning Wang",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Peter Christensen",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Thomas Tucker",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Tane Jacob Moleta",
+            "betweenness_centrality": 0.045775357935067554
+        },
+        {
+            "id": "Hartmut Seichter",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Marcos Novak",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Mercedes Paulini",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Sam Mclennan",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Amar Bennadji",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Ruth ?Ron",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Rong Chen",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "James Durcan",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Qiaoliang Xu",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Evelyn L. C. Howe",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Scott Meekings",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Steve Kuan",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Jeremy J. Ham",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Cameron Wells",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Serdar Aydin",
+            "betweenness_centrality": 0.0016132284734825567
+        },
+        {
+            "id": "Tom\u737as Dorta",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Davide Pierini",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Yingge Qu",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Duong Nguyen",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Tian Tian Lo",
+            "betweenness_centrality": 0.016838072191974193
+        },
+        {
+            "id": "Iman Sayah",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "David Silcock",
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Jessie Rogers",
+            "betweenness_centrality": 0.0
+        }
+    ],
+    "links": [
+        {
+            "source": "Weidong Li",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Weidong Li",
+            "target": "Steve Kuan",
+            "order": 2
+        },
+        {
+            "source": "Weidong Li",
+            "target": "Thomas Kvan",
+            "order": 1
+        },
+        {
+            "source": "Qun Dai",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Blaire Haslop",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Blaire Haslop",
+            "target": "Serdar Aydin",
+            "order": 1
+        },
+        {
+            "source": "Mitra Homolja",
+            "target": "Marc Aurel Schnabel",
+            "order": 3
+        },
+        {
+            "source": "Mitra Homolja",
+            "target": "Sayyed Amir Hossain Maghool",
+            "order": 1
+        },
+        {
+            "source": "David Batchelor",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Bin Li",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Bin Li",
+            "target": "Tane Jacob Moleta",
+            "order": 1
+        },
+        {
+            "source": "Bin Li",
+            "target": "Weihong Guo",
+            "order": 1
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Amar Bennadji",
+            "order": 4
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Dongsoo Choi",
+            "order": 5
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Kostas ?Terzidis",
+            "order": 13
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Marcos Novak",
+            "order": 10
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Matthew Swarts",
+            "order": 12
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Rebeka Vital",
+            "order": 6
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Ruth ?Ron",
+            "order": 6
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Taro Narahara",
+            "order": 6
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Thomas Tucker",
+            "order": 6
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Tian Tian Lo",
+            "order": 6
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Tomohiro Fukuda",
+            "order": 6
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Yoann Pencreach",
+            "order": 6
+        },
+        {
+            "source": "Paolo Fiamma",
+            "target": "Yoshihiro Kobayashi",
+            "order": 6
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Amar Bennadji",
+            "order": 4
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Dongsoo Choi",
+            "order": 5
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Kostas ?Terzidis",
+            "order": 13
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Marcos Novak",
+            "order": 10
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Matthew Swarts",
+            "order": 12
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Ruth ?Ron",
+            "order": 15
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Taro Narahara",
+            "order": 15
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Thomas Tucker",
+            "order": 15
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Tian Tian Lo",
+            "order": 15
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Tomohiro Fukuda",
+            "order": 15
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Yoann Pencreach",
+            "order": 15
+        },
+        {
+            "source": "Rebeka Vital",
+            "target": "Yoshihiro Kobayashi",
+            "order": 15
+        },
+        {
+            "source": "Cyrus Qureshi",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Cyrus Qureshi",
+            "target": "Tane Jacob Moleta",
+            "order": 1
+        },
+        {
+            "source": "Yi He",
+            "target": "Marc Aurel Schnabel",
+            "order": 2
+        },
+        {
+            "source": "Yi He",
+            "target": "Ning Wang",
+            "order": 4
+        },
+        {
+            "source": "Yi He",
+            "target": "Rong Chen",
+            "order": 3
+        },
+        {
+            "source": "Brandon Wang",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Brandon Wang",
+            "target": "Tane Jacob Moleta",
+            "order": 1
+        },
+        {
+            "source": "Yoann Pencreach",
+            "target": "Amar Bennadji",
+            "order": 4
+        },
+        {
+            "source": "Yoann Pencreach",
+            "target": "Dongsoo Choi",
+            "order": 5
+        },
+        {
+            "source": "Yoann Pencreach",
+            "target": "Kostas ?Terzidis",
+            "order": 13
+        },
+        {
+            "source": "Yoann Pencreach",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Yoann Pencreach",
+            "target": "Marcos Novak",
+            "order": 10
+        },
+        {
+            "source": "Yoann Pencreach",
+            "target": "Matthew Swarts",
+            "order": 12
+        },
+        {
+            "source": "Yoann Pencreach",
+            "target": "Ruth ?Ron",
+            "order": 11
+        },
+        {
+            "source": "Yoann Pencreach",
+            "target": "Taro Narahara",
+            "order": 9
+        },
+        {
+            "source": "Yoann Pencreach",
+            "target": "Thomas Tucker",
+            "order": 14
+        },
+        {
+            "source": "Yoann Pencreach",
+            "target": "Tian Tian Lo",
+            "order": 8
+        },
+        {
+            "source": "Yoann Pencreach",
+            "target": "Tomohiro Fukuda",
+            "order": 7
+        },
+        {
+            "source": "Yoann Pencreach",
+            "target": "Yoshihiro Kobayashi",
+            "order": 3
+        },
+        {
+            "source": "Xiangyu Wang",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Xiangyu Wang",
+            "target": "Hartmut Seichter",
+            "order": 2
+        },
+        {
+            "source": "Xiangyu Wang",
+            "target": "Thomas Kvan",
+            "order": 2
+        },
+        {
+            "source": "Liam Jordan Sheehan",
+            "target": "Andre Brown",
+            "order": 2
+        },
+        {
+            "source": "Liam Jordan Sheehan",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Liam Jordan Sheehan",
+            "target": "Tane Jacob Moleta",
+            "order": 1
+        },
+        {
+            "source": "Derek Kawiti",
+            "target": "James Durcan",
+            "order": 1
+        },
+        {
+            "source": "Derek Kawiti",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Maria Rogers",
+            "target": "Andre Brown",
+            "order": 2
+        },
+        {
+            "source": "Maria Rogers",
+            "target": "Marc Aurel Schnabel",
+            "order": 4
+        },
+        {
+            "source": "Maria Rogers",
+            "target": "Qiaoliang Xu",
+            "order": 5
+        },
+        {
+            "source": "Maria Rogers",
+            "target": "Tane Jacob Moleta",
+            "order": 5
+        },
+        {
+            "source": "Dongsoo Choi",
+            "target": "Amar Bennadji",
+            "order": 4
+        },
+        {
+            "source": "Dongsoo Choi",
+            "target": "Kostas ?Terzidis",
+            "order": 5
+        },
+        {
+            "source": "Dongsoo Choi",
+            "target": "Marc Aurel Schnabel",
+            "order": 5
+        },
+        {
+            "source": "Dongsoo Choi",
+            "target": "Marcos Novak",
+            "order": 5
+        },
+        {
+            "source": "Dongsoo Choi",
+            "target": "Matthew Swarts",
+            "order": 5
+        },
+        {
+            "source": "Dongsoo Choi",
+            "target": "Ruth ?Ron",
+            "order": 5
+        },
+        {
+            "source": "Dongsoo Choi",
+            "target": "Taro Narahara",
+            "order": 5
+        },
+        {
+            "source": "Dongsoo Choi",
+            "target": "Thomas Tucker",
+            "order": 5
+        },
+        {
+            "source": "Dongsoo Choi",
+            "target": "Tian Tian Lo",
+            "order": 5
+        },
+        {
+            "source": "Dongsoo Choi",
+            "target": "Tomohiro Fukuda",
+            "order": 5
+        },
+        {
+            "source": "Dongsoo Choi",
+            "target": "Yoshihiro Kobayashi",
+            "order": 5
+        },
+        {
+            "source": "Tomohiro Fukuda",
+            "target": "Amar Bennadji",
+            "order": 4
+        },
+        {
+            "source": "Tomohiro Fukuda",
+            "target": "Kostas ?Terzidis",
+            "order": 13
+        },
+        {
+            "source": "Tomohiro Fukuda",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Tomohiro Fukuda",
+            "target": "Marcos Novak",
+            "order": 10
+        },
+        {
+            "source": "Tomohiro Fukuda",
+            "target": "Matthew Swarts",
+            "order": 12
+        },
+        {
+            "source": "Tomohiro Fukuda",
+            "target": "Ruth ?Ron",
+            "order": 11
+        },
+        {
+            "source": "Tomohiro Fukuda",
+            "target": "Taro Narahara",
+            "order": 9
+        },
+        {
+            "source": "Tomohiro Fukuda",
+            "target": "Thomas Tucker",
+            "order": 14
+        },
+        {
+            "source": "Tomohiro Fukuda",
+            "target": "Tian Tian Lo",
+            "order": 8
+        },
+        {
+            "source": "Tomohiro Fukuda",
+            "target": "Yoshihiro Kobayashi",
+            "order": 7
+        },
+        {
+            "source": "Shuva Chowdhury",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Thomas Kvan",
+            "target": "Steve Kuan",
+            "order": 1
+        },
+        {
+            "source": "Thomas Kvan",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Thomas Kvan",
+            "target": "Hartmut Seichter",
+            "order": 3
+        },
+        {
+            "source": "Yoshihiro Kobayashi",
+            "target": "Amar Bennadji",
+            "order": 4
+        },
+        {
+            "source": "Yoshihiro Kobayashi",
+            "target": "Kostas ?Terzidis",
+            "order": 13
+        },
+        {
+            "source": "Yoshihiro Kobayashi",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Yoshihiro Kobayashi",
+            "target": "Marcos Novak",
+            "order": 10
+        },
+        {
+            "source": "Yoshihiro Kobayashi",
+            "target": "Matthew Swarts",
+            "order": 12
+        },
+        {
+            "source": "Yoshihiro Kobayashi",
+            "target": "Ruth ?Ron",
+            "order": 11
+        },
+        {
+            "source": "Yoshihiro Kobayashi",
+            "target": "Taro Narahara",
+            "order": 9
+        },
+        {
+            "source": "Yoshihiro Kobayashi",
+            "target": "Thomas Tucker",
+            "order": 14
+        },
+        {
+            "source": "Yoshihiro Kobayashi",
+            "target": "Tian Tian Lo",
+            "order": 8
+        },
+        {
+            "source": "Hannah Rushton",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Kostas ?Terzidis",
+            "target": "Amar Bennadji",
+            "order": 4
+        },
+        {
+            "source": "Kostas ?Terzidis",
+            "target": "Marc Aurel Schnabel",
+            "order": 13
+        },
+        {
+            "source": "Kostas ?Terzidis",
+            "target": "Marcos Novak",
+            "order": 13
+        },
+        {
+            "source": "Kostas ?Terzidis",
+            "target": "Matthew Swarts",
+            "order": 13
+        },
+        {
+            "source": "Kostas ?Terzidis",
+            "target": "Ruth ?Ron",
+            "order": 13
+        },
+        {
+            "source": "Kostas ?Terzidis",
+            "target": "Taro Narahara",
+            "order": 13
+        },
+        {
+            "source": "Kostas ?Terzidis",
+            "target": "Thomas Tucker",
+            "order": 13
+        },
+        {
+            "source": "Kostas ?Terzidis",
+            "target": "Tian Tian Lo",
+            "order": 13
+        },
+        {
+            "source": "Irene Rui Chen",
+            "target": "Marc Aurel Schnabel",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Steve Kuan",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Hartmut Seichter",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Mercedes Paulini",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Peter Christensen",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Evelyn L. C. Howe",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Jeremy J. Ham",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Yingge Qu",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Tian Tian Lo",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Serdar Aydin",
+            "order": 2
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Yingyi Zhang",
+            "order": 2
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "James Durcan",
+            "order": 3
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Davide Pierini",
+            "order": 4
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Tane Jacob Moleta",
+            "order": 3
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Tom\u737as Dorta",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Ning Wang",
+            "order": 2
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Rong Chen",
+            "order": 2
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Jessie Rogers",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Duong Nguyen",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "James Holth",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Scott Meekings",
+            "order": 3
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Iman Sayah",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Sayyed Amir Hossain Maghool",
+            "order": 3
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Andre Brown",
+            "order": 2
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Sam Mclennan",
+            "order": 2
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Qiaoliang Xu",
+            "order": 4
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Weihong Guo",
+            "order": 3
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "David Silcock",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Amar Bennadji",
+            "order": 4
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Marcos Novak",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Matthew Swarts",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Ruth ?Ron",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Taro Narahara",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Thomas Tucker",
+            "order": 1
+        },
+        {
+            "source": "Marc Aurel Schnabel",
+            "target": "Cameron Wells",
+            "order": 1
+        },
+        {
+            "source": "Andre Brown",
+            "target": "Sam Mclennan",
+            "order": 4
+        },
+        {
+            "source": "Andre Brown",
+            "target": "Tane Jacob Moleta",
+            "order": 2
+        },
+        {
+            "source": "Andre Brown",
+            "target": "Qiaoliang Xu",
+            "order": 2
+        },
+        {
+            "source": "Andre Brown",
+            "target": "David Silcock",
+            "order": 4
+        },
+        {
+            "source": "Andre Brown",
+            "target": "Cameron Wells",
+            "order": 4
+        },
+        {
+            "source": "Weihong Guo",
+            "target": "Tane Jacob Moleta",
+            "order": 4
+        },
+        {
+            "source": "Taro Narahara",
+            "target": "Amar Bennadji",
+            "order": 4
+        },
+        {
+            "source": "Taro Narahara",
+            "target": "Marcos Novak",
+            "order": 10
+        },
+        {
+            "source": "Taro Narahara",
+            "target": "Matthew Swarts",
+            "order": 12
+        },
+        {
+            "source": "Taro Narahara",
+            "target": "Ruth ?Ron",
+            "order": 11
+        },
+        {
+            "source": "Taro Narahara",
+            "target": "Thomas Tucker",
+            "order": 9
+        },
+        {
+            "source": "Taro Narahara",
+            "target": "Tian Tian Lo",
+            "order": 9
+        },
+        {
+            "source": "Matthew Swarts",
+            "target": "Amar Bennadji",
+            "order": 4
+        },
+        {
+            "source": "Matthew Swarts",
+            "target": "Marcos Novak",
+            "order": 10
+        },
+        {
+            "source": "Matthew Swarts",
+            "target": "Ruth ?Ron",
+            "order": 12
+        },
+        {
+            "source": "Matthew Swarts",
+            "target": "Thomas Tucker",
+            "order": 12
+        },
+        {
+            "source": "Matthew Swarts",
+            "target": "Tian Tian Lo",
+            "order": 12
+        },
+        {
+            "source": "James Holth",
+            "target": "Scott Meekings",
+            "order": 1
+        },
+        {
+            "source": "James Holth",
+            "target": "Tane Jacob Moleta",
+            "order": 1
+        },
+        {
+            "source": "Ning Wang",
+            "target": "Rong Chen",
+            "order": 4
+        },
+        {
+            "source": "Thomas Tucker",
+            "target": "Amar Bennadji",
+            "order": 4
+        },
+        {
+            "source": "Thomas Tucker",
+            "target": "Marcos Novak",
+            "order": 10
+        },
+        {
+            "source": "Thomas Tucker",
+            "target": "Ruth ?Ron",
+            "order": 11
+        },
+        {
+            "source": "Thomas Tucker",
+            "target": "Tian Tian Lo",
+            "order": 14
+        },
+        {
+            "source": "Tane Jacob Moleta",
+            "target": "Davide Pierini",
+            "order": 4
+        },
+        {
+            "source": "Tane Jacob Moleta",
+            "target": "Serdar Aydin",
+            "order": 2
+        },
+        {
+            "source": "Tane Jacob Moleta",
+            "target": "Tom\u737as Dorta",
+            "order": 3
+        },
+        {
+            "source": "Tane Jacob Moleta",
+            "target": "Tian Tian Lo",
+            "order": 3
+        },
+        {
+            "source": "Tane Jacob Moleta",
+            "target": "Jessie Rogers",
+            "order": 1
+        },
+        {
+            "source": "Tane Jacob Moleta",
+            "target": "Duong Nguyen",
+            "order": 1
+        },
+        {
+            "source": "Tane Jacob Moleta",
+            "target": "Scott Meekings",
+            "order": 2
+        },
+        {
+            "source": "Tane Jacob Moleta",
+            "target": "Sam Mclennan",
+            "order": 1
+        },
+        {
+            "source": "Tane Jacob Moleta",
+            "target": "Qiaoliang Xu",
+            "order": 1
+        },
+        {
+            "source": "Tane Jacob Moleta",
+            "target": "David Silcock",
+            "order": 1
+        },
+        {
+            "source": "Tane Jacob Moleta",
+            "target": "Cameron Wells",
+            "order": 1
+        },
+        {
+            "source": "Marcos Novak",
+            "target": "Amar Bennadji",
+            "order": 4
+        },
+        {
+            "source": "Marcos Novak",
+            "target": "Ruth ?Ron",
+            "order": 10
+        },
+        {
+            "source": "Marcos Novak",
+            "target": "Tian Tian Lo",
+            "order": 10
+        },
+        {
+            "source": "Amar Bennadji",
+            "target": "Ruth ?Ron",
+            "order": 4
+        },
+        {
+            "source": "Amar Bennadji",
+            "target": "Tian Tian Lo",
+            "order": 4
+        },
+        {
+            "source": "Ruth ?Ron",
+            "target": "Tian Tian Lo",
+            "order": 11
+        },
+        {
+            "source": "Serdar Aydin",
+            "target": "Tian Tian Lo",
+            "order": 1
+        },
+        {
+            "source": "Serdar Aydin",
+            "target": "Davide Pierini",
+            "order": 4
+        },
+        {
+            "source": "Serdar Aydin",
+            "target": "Tom\u737as Dorta",
+            "order": 2
+        },
+        {
+            "source": "Tom\u737as Dorta",
+            "target": "Davide Pierini",
+            "order": 4
+        },
+        {
+            "source": "Yingge Qu",
+            "target": "Tian Tian Lo",
+            "order": 2
+        },
+        {
+            "source": "Tian Tian Lo",
+            "target": "Jessie Rogers",
+            "order": 1
+        }
+    ]
+}

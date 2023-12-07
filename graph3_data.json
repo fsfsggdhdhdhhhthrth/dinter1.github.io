@@ -1,0 +1,1359 @@
+{
+  "nodes": [
+    {
+      "id": "Alan Kim",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Aron Sheldon",
+      "degree_centrality": 0.09090909090909091
+    },
+    {
+      "id": "Matthias Hank Haeusler",
+      "degree_centrality": 1.0
+    },
+    {
+      "id": "Madeleine Johanson",
+      "degree_centrality": 0.06060606060606061
+    },
+    {
+      "id": "Tiara Dobbs",
+      "degree_centrality": 0.10606060606060606
+    },
+    {
+      "id": "Dominic Hawton",
+      "degree_centrality": 0.09090909090909091
+    },
+    {
+      "id": "Daniel Yu",
+      "degree_centrality": 0.13636363636363635
+    },
+    {
+      "id": "Angelos Chronis",
+      "degree_centrality": 0.06060606060606061
+    },
+    {
+      "id": "Michael Chernyavsky",
+      "degree_centrality": 0.07575757575757576
+    },
+    {
+      "id": "David Madden",
+      "degree_centrality": 0.09090909090909091
+    },
+    {
+      "id": "Andrew Butler",
+      "degree_centrality": 0.18181818181818182
+    },
+    {
+      "id": "Emily Leung",
+      "degree_centrality": 0.09090909090909091
+    },
+    {
+      "id": "Danny D. Nguyen",
+      "degree_centrality": 0.030303030303030304
+    },
+    {
+      "id": "Anycie Coorey",
+      "degree_centrality": 0.030303030303030304
+    },
+    {
+      "id": "Romain Guillot",
+      "degree_centrality": 0.06060606060606061
+    },
+    {
+      "id": "Michael White",
+      "degree_centrality": 0.030303030303030304
+    },
+    {
+      "id": "Jeremy Graham",
+      "degree_centrality": 0.030303030303030304
+    },
+    {
+      "id": "Kate Dunn",
+      "degree_centrality": 0.10606060606060606
+    },
+    {
+      "id": "Leo Lin Meng",
+      "degree_centrality": 0.07575757575757576
+    },
+    {
+      "id": "Jorge Martinez",
+      "degree_centrality": 0.09090909090909091
+    },
+    {
+      "id": "Ben Doherty",
+      "degree_centrality": 0.2272727272727273
+    },
+    {
+      "id": "Eliot Rosenberg",
+      "degree_centrality": 0.030303030303030304
+    },
+    {
+      "id": "Shan Pan",
+      "degree_centrality": 0.06060606060606061
+    },
+    {
+      "id": "Stephen Green",
+      "degree_centrality": 0.07575757575757576
+    },
+    {
+      "id": "Jorke Odolphi",
+      "degree_centrality": 0.10606060606060606
+    },
+    {
+      "id": "Rebekah Araullo",
+      "degree_centrality": 0.015151515151515152
+    },
+    {
+      "id": "Narissa Bungbrakearti",
+      "degree_centrality": 0.09090909090909091
+    },
+    {
+      "id": "Jeffrey Koh",
+      "degree_centrality": 0.030303030303030304
+    },
+    {
+      "id": "Katrina Simons",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Sascha Bohnenberger",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Jane Burry",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Nazmul Khan",
+      "degree_centrality": 0.06060606060606061
+    },
+    {
+      "id": "Serjoscha Duering",
+      "degree_centrality": 0.06060606060606061
+    },
+    {
+      "id": "Yannis Zavoleas",
+      "degree_centrality": 0.2272727272727273
+    },
+    {
+      "id": "Daniel Joseph",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Charlotte Firth",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Suleiman Alhadidi",
+      "degree_centrality": 0.030303030303030304
+    },
+    {
+      "id": "Manuel Muehlbauer",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Garry Hangge Zhang",
+      "degree_centrality": 0.06060606060606061
+    },
+    {
+      "id": "Jennifer Mei Yee Ng",
+      "degree_centrality": 0.09090909090909091
+    },
+    {
+      "id": "Matthias Irger",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Margaret Goldsack",
+      "degree_centrality": 0.030303030303030304
+    },
+    {
+      "id": "Alessandra Fabbri",
+      "degree_centrality": 0.4545454545454546
+    },
+    {
+      "id": "Alexander Lee",
+      "degree_centrality": 0.030303030303030304
+    },
+    {
+      "id": "Ben Cooper-Wooley",
+      "degree_centrality": 0.10606060606060606
+    },
+    {
+      "id": "K. Daniel Yu",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Daniel Camacho",
+      "degree_centrality": 0.07575757575757576
+    },
+    {
+      "id": "Madison King",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Tracy Huang",
+      "degree_centrality": 0.07575757575757576
+    },
+    {
+      "id": "Reinhard Koenig",
+      "degree_centrality": 0.06060606060606061
+    },
+    {
+      "id": "Rob Asher",
+      "degree_centrality": 0.12121212121212122
+    },
+    {
+      "id": "Annisa R. Rizal",
+      "degree_centrality": 0.030303030303030304
+    },
+    {
+      "id": "Geoff King",
+      "degree_centrality": 0.07575757575757576
+    },
+    {
+      "id": "Erik Escalante",
+      "degree_centrality": 0.06060606060606061
+    },
+    {
+      "id": "Lucas Kim",
+      "degree_centrality": 0.09090909090909091
+    },
+    {
+      "id": "Martin Tomitsch",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Cristina Ramos",
+      "degree_centrality": 0.09090909090909091
+    },
+    {
+      "id": "Nariddh Khean",
+      "degree_centrality": 0.18181818181818182
+    },
+    {
+      "id": "Sophie Scott",
+      "degree_centrality": 0.06060606060606061
+    },
+    {
+      "id": "Alex Tohidi",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Ben Coorey",
+      "degree_centrality": 0.030303030303030304
+    },
+    {
+      "id": "Lachlan Sharah",
+      "degree_centrality": 0.06060606060606061
+    },
+    {
+      "id": "Ryan Johan",
+      "degree_centrality": 0.07575757575757576
+    },
+    {
+      "id": "Tom Barker",
+      "degree_centrality": 0.045454545454545456
+    },
+    {
+      "id": "Samad Sepasgozar",
+      "degree_centrality": 0.06060606060606061
+    },
+    {
+      "id": "Nicole Gardner",
+      "degree_centrality": 0.5303030303030303
+    },
+    {
+      "id": "Jack Barton",
+      "degree_centrality": 0.07575757575757576
+    }
+  ],
+  "links": [
+    {
+      "source": "Alan Kim",
+      "target": "Daniel Joseph",
+      "order": 1
+    },
+    {
+      "source": "Alan Kim",
+      "target": "Andrew Butler",
+      "order": 2
+    },
+    {
+      "source": "Alan Kim",
+      "target": "Matthias Hank Haeusler",
+      "order": 2
+    },
+    {
+      "source": "Aron Sheldon",
+      "target": "Alessandra Fabbri",
+      "order": 3
+    },
+    {
+      "source": "Aron Sheldon",
+      "target": "Cristina Ramos",
+      "order": 1
+    },
+    {
+      "source": "Aron Sheldon",
+      "target": "Matthias Hank Haeusler",
+      "order": 1
+    },
+    {
+      "source": "Aron Sheldon",
+      "target": "Nicole Gardner",
+      "order": 1
+    },
+    {
+      "source": "Aron Sheldon",
+      "target": "Tiara Dobbs",
+      "order": 1
+    },
+    {
+      "source": "Aron Sheldon",
+      "target": "Yannis Zavoleas",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Tom Barker",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Nicole Gardner",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Martin Tomitsch",
+      "order": 3
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Danny D. Nguyen",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Margaret Goldsack",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Daniel Joseph",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Andrew Butler",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Eliot Rosenberg",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Jeffrey Koh",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Annisa R. Rizal",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Ben Doherty",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Alexander Lee",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Suleiman Alhadidi",
+      "order": 3
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Jane Burry",
+      "order": 4
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Manuel Muehlbauer",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Sascha Bohnenberger",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Madeleine Johanson",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Nazmul Khan",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Rob Asher",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Alessandra Fabbri",
+      "order": 3
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Erik Escalante",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Lachlan Sharah",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Romain Guillot",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Anycie Coorey",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Ben Coorey",
+      "order": 3
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Rebekah Araullo",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Emily Leung",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Ben Cooper-Wooley",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Jorke Odolphi",
+      "order": 3
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Narissa Bungbrakearti",
+      "order": 7
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Jorge Martinez",
+      "order": 3
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Lucas Kim",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Nariddh Khean",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Dominic Hawton",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "K. Daniel Yu",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Katrina Simons",
+      "order": 4
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Michael White",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Yannis Zavoleas",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Geoff King",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Stephen Green",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Cristina Ramos",
+      "order": 6
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Tiara Dobbs",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Michael Chernyavsky",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Ryan Johan",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "David Madden",
+      "order": 3
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Jennifer Mei Yee Ng",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Sophie Scott",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Daniel Camacho",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Leo Lin Meng",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Charlotte Firth",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Kate Dunn",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Madison King",
+      "order": 3
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Jeremy Graham",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Samad Sepasgozar",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Shan Pan",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Daniel Yu",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Jack Barton",
+      "order": 4
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Tracy Huang",
+      "order": 2
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Garry Hangge Zhang",
+      "order": 1
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Angelos Chronis",
+      "order": 3
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Reinhard Koenig",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Serjoscha Duering",
+      "order": 5
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Alex Tohidi",
+      "order": 3
+    },
+    {
+      "source": "Matthias Hank Haeusler",
+      "target": "Matthias Irger",
+      "order": 4
+    },
+    {
+      "source": "Madeleine Johanson",
+      "target": "Andrew Butler",
+      "order": 4
+    },
+    {
+      "source": "Madeleine Johanson",
+      "target": "Nazmul Khan",
+      "order": 1
+    },
+    {
+      "source": "Madeleine Johanson",
+      "target": "Rob Asher",
+      "order": 1
+    },
+    {
+      "source": "Tiara Dobbs",
+      "target": "Alessandra Fabbri",
+      "order": 3
+    },
+    {
+      "source": "Tiara Dobbs",
+      "target": "Cristina Ramos",
+      "order": 6
+    },
+    {
+      "source": "Tiara Dobbs",
+      "target": "Nicole Gardner",
+      "order": 4
+    },
+    {
+      "source": "Tiara Dobbs",
+      "target": "Yannis Zavoleas",
+      "order": 2
+    },
+    {
+      "source": "Tiara Dobbs",
+      "target": "Daniel Camacho",
+      "order": 1
+    },
+    {
+      "source": "Dominic Hawton",
+      "target": "Alessandra Fabbri",
+      "order": 5
+    },
+    {
+      "source": "Dominic Hawton",
+      "target": "Ben Cooper-Wooley",
+      "order": 2
+    },
+    {
+      "source": "Dominic Hawton",
+      "target": "Ben Doherty",
+      "order": 4
+    },
+    {
+      "source": "Dominic Hawton",
+      "target": "Jorke Odolphi",
+      "order": 1
+    },
+    {
+      "source": "Dominic Hawton",
+      "target": "Nicole Gardner",
+      "order": 1
+    },
+    {
+      "source": "Daniel Yu",
+      "target": "Jack Barton",
+      "order": 3
+    },
+    {
+      "source": "Daniel Yu",
+      "target": "Kate Dunn",
+      "order": 3
+    },
+    {
+      "source": "Daniel Yu",
+      "target": "Nicole Gardner",
+      "order": 4
+    },
+    {
+      "source": "Daniel Yu",
+      "target": "Tracy Huang",
+      "order": 3
+    },
+    {
+      "source": "Daniel Yu",
+      "target": "Garry Hangge Zhang",
+      "order": 4
+    },
+    {
+      "source": "Daniel Yu",
+      "target": "Leo Lin Meng",
+      "order": 4
+    },
+    {
+      "source": "Daniel Yu",
+      "target": "Alex Tohidi",
+      "order": 3
+    },
+    {
+      "source": "Daniel Yu",
+      "target": "Matthias Irger",
+      "order": 1
+    },
+    {
+      "source": "Angelos Chronis",
+      "target": "Reinhard Koenig",
+      "order": 3
+    },
+    {
+      "source": "Angelos Chronis",
+      "target": "Serjoscha Duering",
+      "order": 3
+    },
+    {
+      "source": "Angelos Chronis",
+      "target": "Nariddh Khean",
+      "order": 3
+    },
+    {
+      "source": "Michael Chernyavsky",
+      "target": "Alessandra Fabbri",
+      "order": 3
+    },
+    {
+      "source": "Michael Chernyavsky",
+      "target": "Nicole Gardner",
+      "order": 2
+    },
+    {
+      "source": "Michael Chernyavsky",
+      "target": "Ryan Johan",
+      "order": 2
+    },
+    {
+      "source": "Michael Chernyavsky",
+      "target": "Yannis Zavoleas",
+      "order": 2
+    },
+    {
+      "source": "David Madden",
+      "target": "Alessandra Fabbri",
+      "order": 4
+    },
+    {
+      "source": "David Madden",
+      "target": "Jennifer Mei Yee Ng",
+      "order": 3
+    },
+    {
+      "source": "David Madden",
+      "target": "Nariddh Khean",
+      "order": 3
+    },
+    {
+      "source": "David Madden",
+      "target": "Nicole Gardner",
+      "order": 3
+    },
+    {
+      "source": "David Madden",
+      "target": "Yannis Zavoleas",
+      "order": 3
+    },
+    {
+      "source": "Andrew Butler",
+      "target": "Daniel Joseph",
+      "order": 1
+    },
+    {
+      "source": "Andrew Butler",
+      "target": "Nazmul Khan",
+      "order": 4
+    },
+    {
+      "source": "Andrew Butler",
+      "target": "Rob Asher",
+      "order": 2
+    },
+    {
+      "source": "Andrew Butler",
+      "target": "Alessandra Fabbri",
+      "order": 5
+    },
+    {
+      "source": "Andrew Butler",
+      "target": "Ben Doherty",
+      "order": 3
+    },
+    {
+      "source": "Andrew Butler",
+      "target": "Emily Leung",
+      "order": 2
+    },
+    {
+      "source": "Andrew Butler",
+      "target": "Nicole Gardner",
+      "order": 2
+    },
+    {
+      "source": "Andrew Butler",
+      "target": "Samad Sepasgozar",
+      "order": 2
+    },
+    {
+      "source": "Andrew Butler",
+      "target": "Shan Pan",
+      "order": 2
+    },
+    {
+      "source": "Emily Leung",
+      "target": "Alessandra Fabbri",
+      "order": 5
+    },
+    {
+      "source": "Emily Leung",
+      "target": "Ben Doherty",
+      "order": 4
+    },
+    {
+      "source": "Emily Leung",
+      "target": "Nicole Gardner",
+      "order": 1
+    },
+    {
+      "source": "Emily Leung",
+      "target": "Rob Asher",
+      "order": 1
+    },
+    {
+      "source": "Danny D. Nguyen",
+      "target": "Margaret Goldsack",
+      "order": 2
+    },
+    {
+      "source": "Anycie Coorey",
+      "target": "Ben Coorey",
+      "order": 1
+    },
+    {
+      "source": "Romain Guillot",
+      "target": "Alessandra Fabbri",
+      "order": 3
+    },
+    {
+      "source": "Romain Guillot",
+      "target": "Erik Escalante",
+      "order": 2
+    },
+    {
+      "source": "Romain Guillot",
+      "target": "Lachlan Sharah",
+      "order": 1
+    },
+    {
+      "source": "Michael White",
+      "target": "Yannis Zavoleas",
+      "order": 1
+    },
+    {
+      "source": "Jeremy Graham",
+      "target": "Leo Lin Meng",
+      "order": 2
+    },
+    {
+      "source": "Kate Dunn",
+      "target": "Charlotte Firth",
+      "order": 1
+    },
+    {
+      "source": "Kate Dunn",
+      "target": "Madison King",
+      "order": 2
+    },
+    {
+      "source": "Kate Dunn",
+      "target": "Jack Barton",
+      "order": 4
+    },
+    {
+      "source": "Kate Dunn",
+      "target": "Nicole Gardner",
+      "order": 5
+    },
+    {
+      "source": "Kate Dunn",
+      "target": "Tracy Huang",
+      "order": 5
+    },
+    {
+      "source": "Leo Lin Meng",
+      "target": "Nicole Gardner",
+      "order": 2
+    },
+    {
+      "source": "Leo Lin Meng",
+      "target": "Garry Hangge Zhang",
+      "order": 1
+    },
+    {
+      "source": "Jorge Martinez",
+      "target": "Alessandra Fabbri",
+      "order": 5
+    },
+    {
+      "source": "Jorge Martinez",
+      "target": "Ben Doherty",
+      "order": 4
+    },
+    {
+      "source": "Jorge Martinez",
+      "target": "Lucas Kim",
+      "order": 3
+    },
+    {
+      "source": "Jorge Martinez",
+      "target": "Nariddh Khean",
+      "order": 3
+    },
+    {
+      "source": "Jorge Martinez",
+      "target": "Nicole Gardner",
+      "order": 3
+    },
+    {
+      "source": "Ben Doherty",
+      "target": "Annisa R. Rizal",
+      "order": 1
+    },
+    {
+      "source": "Ben Doherty",
+      "target": "Alessandra Fabbri",
+      "order": 3
+    },
+    {
+      "source": "Ben Doherty",
+      "target": "Nicole Gardner",
+      "order": 2
+    },
+    {
+      "source": "Ben Doherty",
+      "target": "Rob Asher",
+      "order": 4
+    },
+    {
+      "source": "Ben Doherty",
+      "target": "Ben Cooper-Wooley",
+      "order": 2
+    },
+    {
+      "source": "Ben Doherty",
+      "target": "Jorke Odolphi",
+      "order": 4
+    },
+    {
+      "source": "Ben Doherty",
+      "target": "Narissa Bungbrakearti",
+      "order": 4
+    },
+    {
+      "source": "Ben Doherty",
+      "target": "Lucas Kim",
+      "order": 4
+    },
+    {
+      "source": "Ben Doherty",
+      "target": "Nariddh Khean",
+      "order": 4
+    },
+    {
+      "source": "Ben Doherty",
+      "target": "Sophie Scott",
+      "order": 2
+    },
+    {
+      "source": "Eliot Rosenberg",
+      "target": "Jeffrey Koh",
+      "order": 1
+    },
+    {
+      "source": "Shan Pan",
+      "target": "Nicole Gardner",
+      "order": 3
+    },
+    {
+      "source": "Shan Pan",
+      "target": "Samad Sepasgozar",
+      "order": 4
+    },
+    {
+      "source": "Stephen Green",
+      "target": "Alessandra Fabbri",
+      "order": 3
+    },
+    {
+      "source": "Stephen Green",
+      "target": "Geoff King",
+      "order": 2
+    },
+    {
+      "source": "Stephen Green",
+      "target": "Nicole Gardner",
+      "order": 4
+    },
+    {
+      "source": "Stephen Green",
+      "target": "Yannis Zavoleas",
+      "order": 1
+    },
+    {
+      "source": "Jorke Odolphi",
+      "target": "Alessandra Fabbri",
+      "order": 5
+    },
+    {
+      "source": "Jorke Odolphi",
+      "target": "Ben Cooper-Wooley",
+      "order": 2
+    },
+    {
+      "source": "Jorke Odolphi",
+      "target": "Narissa Bungbrakearti",
+      "order": 3
+    },
+    {
+      "source": "Jorke Odolphi",
+      "target": "Nicole Gardner",
+      "order": 3
+    },
+    {
+      "source": "Narissa Bungbrakearti",
+      "target": "Alessandra Fabbri",
+      "order": 5
+    },
+    {
+      "source": "Narissa Bungbrakearti",
+      "target": "Ben Cooper-Wooley",
+      "order": 2
+    },
+    {
+      "source": "Narissa Bungbrakearti",
+      "target": "Nicole Gardner",
+      "order": 1
+    },
+    {
+      "source": "Katrina Simons",
+      "target": "Alessandra Fabbri",
+      "order": 3
+    },
+    {
+      "source": "Katrina Simons",
+      "target": "K. Daniel Yu",
+      "order": 1
+    },
+    {
+      "source": "Sascha Bohnenberger",
+      "target": "Jane Burry",
+      "order": 4
+    },
+    {
+      "source": "Sascha Bohnenberger",
+      "target": "Manuel Muehlbauer",
+      "order": 2
+    },
+    {
+      "source": "Jane Burry",
+      "target": "Manuel Muehlbauer",
+      "order": 4
+    },
+    {
+      "source": "Nazmul Khan",
+      "target": "Rob Asher",
+      "order": 2
+    },
+    {
+      "source": "Serjoscha Duering",
+      "target": "Reinhard Koenig",
+      "order": 4
+    },
+    {
+      "source": "Serjoscha Duering",
+      "target": "Nariddh Khean",
+      "order": 1
+    },
+    {
+      "source": "Yannis Zavoleas",
+      "target": "Alessandra Fabbri",
+      "order": 3
+    },
+    {
+      "source": "Yannis Zavoleas",
+      "target": "Geoff King",
+      "order": 2
+    },
+    {
+      "source": "Yannis Zavoleas",
+      "target": "Nicole Gardner",
+      "order": 4
+    },
+    {
+      "source": "Yannis Zavoleas",
+      "target": "Cristina Ramos",
+      "order": 6
+    },
+    {
+      "source": "Yannis Zavoleas",
+      "target": "Ryan Johan",
+      "order": 1
+    },
+    {
+      "source": "Yannis Zavoleas",
+      "target": "Jennifer Mei Yee Ng",
+      "order": 1
+    },
+    {
+      "source": "Yannis Zavoleas",
+      "target": "Nariddh Khean",
+      "order": 2
+    },
+    {
+      "source": "Yannis Zavoleas",
+      "target": "Daniel Camacho",
+      "order": 1
+    },
+    {
+      "source": "Charlotte Firth",
+      "target": "Madison King",
+      "order": 1
+    },
+    {
+      "source": "Suleiman Alhadidi",
+      "target": "Alexander Lee",
+      "order": 1
+    },
+    {
+      "source": "Garry Hangge Zhang",
+      "target": "Nicole Gardner",
+      "order": 1
+    },
+    {
+      "source": "Jennifer Mei Yee Ng",
+      "target": "Alessandra Fabbri",
+      "order": 4
+    },
+    {
+      "source": "Jennifer Mei Yee Ng",
+      "target": "Nariddh Khean",
+      "order": 1
+    },
+    {
+      "source": "Jennifer Mei Yee Ng",
+      "target": "Nicole Gardner",
+      "order": 1
+    },
+    {
+      "source": "Matthias Irger",
+      "target": "Alex Tohidi",
+      "order": 3
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "Erik Escalante",
+      "order": 3
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "Lachlan Sharah",
+      "order": 3
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "Nicole Gardner",
+      "order": 3
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "Rob Asher",
+      "order": 5
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "Ben Cooper-Wooley",
+      "order": 5
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "Lucas Kim",
+      "order": 5
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "Nariddh Khean",
+      "order": 4
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "K. Daniel Yu",
+      "order": 3
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "Geoff King",
+      "order": 3
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "Cristina Ramos",
+      "order": 3
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "Ryan Johan",
+      "order": 3
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "Sophie Scott",
+      "order": 3
+    },
+    {
+      "source": "Alessandra Fabbri",
+      "target": "Daniel Camacho",
+      "order": 3
+    },
+    {
+      "source": "Ben Cooper-Wooley",
+      "target": "Nicole Gardner",
+      "order": 2
+    },
+    {
+      "source": "Daniel Camacho",
+      "target": "Nicole Gardner",
+      "order": 1
+    },
+    {
+      "source": "Tracy Huang",
+      "target": "Jack Barton",
+      "order": 4
+    },
+    {
+      "source": "Tracy Huang",
+      "target": "Nicole Gardner",
+      "order": 1
+    },
+    {
+      "source": "Reinhard Koenig",
+      "target": "Nariddh Khean",
+      "order": 1
+    },
+    {
+      "source": "Rob Asher",
+      "target": "Nicole Gardner",
+      "order": 4
+    },
+    {
+      "source": "Geoff King",
+      "target": "Nicole Gardner",
+      "order": 2
+    },
+    {
+      "source": "Erik Escalante",
+      "target": "Lachlan Sharah",
+      "order": 2
+    },
+    {
+      "source": "Lucas Kim",
+      "target": "Nariddh Khean",
+      "order": 2
+    },
+    {
+      "source": "Lucas Kim",
+      "target": "Nicole Gardner",
+      "order": 2
+    },
+    {
+      "source": "Martin Tomitsch",
+      "target": "Tom Barker",
+      "order": 1
+    },
+    {
+      "source": "Martin Tomitsch",
+      "target": "Nicole Gardner",
+      "order": 2
+    },
+    {
+      "source": "Cristina Ramos",
+      "target": "Nicole Gardner",
+      "order": 6
+    },
+    {
+      "source": "Nariddh Khean",
+      "target": "Nicole Gardner",
+      "order": 2
+    },
+    {
+      "source": "Sophie Scott",
+      "target": "Nicole Gardner",
+      "order": 4
+    },
+    {
+      "source": "Ryan Johan",
+      "target": "Nicole Gardner",
+      "order": 4
+    },
+    {
+      "source": "Tom Barker",
+      "target": "Nicole Gardner",
+      "order": 1
+    },
+    {
+      "source": "Samad Sepasgozar",
+      "target": "Nicole Gardner",
+      "order": 3
+    },
+    {
+      "source": "Nicole Gardner",
+      "target": "Jack Barton",
+      "order": 4
+    }
+  ]
+}
